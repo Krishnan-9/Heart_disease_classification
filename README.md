@@ -1,5 +1,5 @@
 # Heart Disease Classification
-This is a simple project that uses logistic regression to classify new patients into twp categories:
+This is a simple project that uses logistic regression to classify new patients into two categories:
 1. Presence of heart disease
 2. Absence of heart disease
 
